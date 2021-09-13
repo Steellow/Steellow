@@ -1,16 +1,19 @@
-### Hi there 👋
+## Howdy! 🤙
 
-<!--
-**Steellow/Steellow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nice to meet ya! I'm Hannes, 21yr old developer from Finland.
 
-Here are some ideas to get you started:
+- 🤑 Currently working at [OP Financial Group](https://www.op.fi/) as a backend developer
+- 🤓 Check out my [today-i-learned](https://hanki.bearblog.dev) log
+- 🎧 Co-host of [Koodikrapula](https://koodikrapula.fi/) podcast
+- ☘ Interested in mobile- and web-development
+- 🐱‍👤 Most experience with Flutter, React, JavaScript and Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact me
+
+- 📧 [hello@hanki.dev](mailto:hello@hanki.dev)
+- 💻 hanki#9631 on [Discord](https://discord.com/)
+- 📱 [@hanneskin](https://t.me/hanneskin) on [Telegram](https://telegram.org/)
+
+---
+
+![](https://komarev.com/ghpvc/?username=steellow&color=red)
