@@ -1,6 +1,6 @@
 ## Howdy! 🤙
 
-Nice to meet ya! I'm Hannes, 21yr old developer from Finland.
+Nice to meet ya! I'm Hannes, 20-something year old developer from Finland.
 
 - 🤑 Currently working at [OP Financial Group](https://www.op.fi/) as a backend developer
 - 🤓 Check out my [today-i-learned](https://hanki.bearblog.dev) log
