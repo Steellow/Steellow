@@ -12,7 +12,7 @@ Nice to meet ya! I'm Hannes, 20-something year old developer from Finland.
 
 - 📧 [hello@hanki.dev](mailto:hello@hanki.dev)
 - 💻 hanki#9631 on [Discord](https://discord.com/)
-- 📱 [@hanneskin](https://t.me/hanneskin) on [Telegram](https://telegram.org/)
+- 📱 [@h4nki](https://t.me/h4nki) on [Telegram](https://telegram.org/)
 
 ---
 
