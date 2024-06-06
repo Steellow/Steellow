@@ -2,9 +2,8 @@
 
 Nice to meet ya! I'm Hannes, 20-something year old developer from Finland.
 
-- 🤑 Currently working at [OP Financial Group](https://www.op.fi/) as a backend developer
+- 🤑 Currently working at [OP Financial Group](https://www.op.fi/) as a fullstack mobile developer
 - 🤓 Check out my [blog](https://hanki.dev)
-- ☘ Currently interested in mobile- and web-development
 - 💵 Most experience with Flutter, React, JavaScript, Java, Kotlin, Jetpack Compose & Spring
 
 ### Contact me
